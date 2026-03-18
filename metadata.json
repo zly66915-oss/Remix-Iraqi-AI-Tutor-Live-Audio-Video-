@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Iraqi AI Tutor (Live Audio & Video)",
+  "description": "A real-time conversational voice and video application where an Iraqi teacher explains your PDF materials using Gemini 2.5 Native Audio.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
